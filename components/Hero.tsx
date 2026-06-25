@@ -28,7 +28,7 @@ export default function Hero() {
           className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter text-white mb-6"
         >
           We Build <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">Next-Gen</span> <br />
-          Digital Experiences
+          Digital Experiences <span className="text-3xl text-gray-500 font-light">v2.0</span>
         </motion.h1>
 
         <motion.p
